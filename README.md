@@ -72,7 +72,7 @@
 <div>
   <h2 align="center"> "Snake" the Contribution Eater </h2>
   <img align="center" alt="Snake Contribution eating"
-    src="https://github.com/pedroHenrique57/ProfileRepository/blob/output/github-contribution-grid-snake.svg">
+    src="https://github.com/pedroHenrique57/pedroHenrique57/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 <hr>
