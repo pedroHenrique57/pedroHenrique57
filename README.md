@@ -118,7 +118,7 @@
 
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
    <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=phwakatime&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=242938&langs_count=10&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=phwakatime&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=242938&langs_count=20&layout=compact&hide_border=true"
     alt="WakaTime Info" />
   </a>
 
