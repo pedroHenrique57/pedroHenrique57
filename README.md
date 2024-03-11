@@ -84,33 +84,22 @@
 
   <section>
    <h3>Studying</h3>
-   <img src="https://skillicons.dev/icons?i=java,python,php,postgresql"/>
+   <img src="https://skillicons.dev/icons?i=angular,java,postgresql,php,python"/>
    <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-   <img style="width: 96px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://www.apache.org/logos/res/httpd/default.png" />
    <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
     src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
    <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
     src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
+    <img style="width: 96px; height: 48px; margin: 0 6px 0 6px;"
+    src="https://www.apache.org/logos/res/httpd/default.png" />
   </section>
  </section>
 
  <section align="center">
   <h2> Stats </h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-   <img height="160px"
-    src="https://github-readme-stats.vercel.app/api?username=pedroHenrique57&show_icons=true&rank_icon=github&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=45,474647,242938&hide_border=true"
-    alt="Github Stats"/>
-  </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-   <img height="160px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHenrique57&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=-30,242938,474647&langs_count=10&layout=compact&hide_border=true"
-    alt="Used Languages"/>
-  </a> <br>
-
-  <a href="https://git.io/streak-stats" title="Go to Source">
+   <a href="https://git.io/streak-stats" title="Go to Source">
    <img
     src="https://github-readme-streak-stats.herokuapp.com?user=pedrohenrique57&hide_border=true&exclude_days=Sun%2CSat&background=242938&ring=EEB902&fire=F45D01&currStreakLabel=97CC04&sideNums=F45D01&sideLabels=97CC04&dates=EEB902&currStreakNum=F45D01&stroke=EB5454"
     alt="GitHub Streak" />
@@ -120,11 +109,18 @@
    <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=phwakatime&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=242938&langs_count=20&layout=compact&hide_border=true"
     alt="WakaTime Info" />
-  </a>
+  </a> <br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+   <img  width="380px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHenrique57&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=242938&langs_count=20&layout=donut-vertical&hide_border=true"
+    alt="Used Languages"/>
+  </a> <br>
 
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenrique57&bg_color=242938&color=eeb902&line=f45d01&point=ffffff&area=true&hide_border=true"
-    alt="Commit Graph"></a>
+    alt="Commit Graph">
+  </a>
  </section>
 
   <section align="center">
