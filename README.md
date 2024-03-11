@@ -128,7 +128,7 @@
  </section>
 
   <section align="center">
-  <h2>"Doofenshmirtz" the contribution eater at Doofenshmirtz Evil Inc.</h2>
+  <h2>"Snake-Inator" the contribution eater at Doofenshmirtz Evil Inc.</h2>
   <img alt="Snake Contribution eating"
    src="https://github.com/pedroHenrique57/pedroHenrique57/blob/output/github-snake-dark.svg">
  </section>
