@@ -99,23 +99,28 @@
  <section align="center">
   <h2> Stats </h2>
 
-   <a href="https://git.io/streak-stats" title="Go to Source">
-   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=pedrohenrique57&hide_border=true&exclude_days=Sun%2CSat&background=242938&ring=EEB902&fire=F45D01&currStreakLabel=97CC04&sideNums=F45D01&sideLabels=97CC04&dates=EEB902&currStreakNum=F45D01&stroke=EB5454"
-    alt="GitHub Streak" />
-  </a> <br>
+<table align="center">
+  <tr>
+    <th>
+      <a href="https://git.io/streak-stats" title="Go to Source">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=pedrohenrique57&hide_border=true&exclude_days=Sun%2CSat&background=242938&ring=EEB902&fire=F45D01&currStreakLabel=97CC04&sideNums=F45D01&sideLabels=97CC04&dates=EEB902&currStreakNum=F45D01&stroke=EB5454" alt="GitHub Streak" />
+      </a>
+    </th>
 
-   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=phwakatime&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=242938&langs_count=20&layout=compact&hide_border=true"
-    alt="WakaTime Info" />
-  </a> <br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-   <img  width="380px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHenrique57&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=242938&langs_count=20&layout=donut-vertical&hide_border=true"
-    alt="Used Languages"/>
-  </a> <br>
+   <th rowspan="2">
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHenrique57&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=242938&langs_count=20&layout=donut-vertical&hide_border=true" alt="Used Languages" />
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phwakatime&title_color=f45d01&text_color=eeb902&icon_color=f45d01&bg_color=242938&langs_count=20&layout=compact&hide_border=true" alt="WakaTime Info" />
+      </a>
+    </th>
+  </tr>
+</table>
 
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenrique57&bg_color=242938&color=eeb902&line=f45d01&point=ffffff&area=true&hide_border=true"
