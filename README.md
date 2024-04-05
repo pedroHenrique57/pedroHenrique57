@@ -71,7 +71,7 @@
         <tr>
             <td>
                <img src="https://skillicons.dev/icons?i=html,css,scss,js"/>
-               <img src="https://skillicons.dev/icons?i=ts,java,php,python" />
+               <img src="https://skillicons.dev/icons?i=ts,java,python" />
             </td>
             <td>
                 <img src="https://skillicons.dev/icons?i=angular,bootstrap" />
