@@ -46,55 +46,67 @@
      src="https://img.shields.io/badge/-Wakatime-white?style=for-the-badge&logo=wakatime&logoColor=black"
      target="_blank"></a>
   </div>
-
  </section>
 
  <section align="center">
   <h2> Technologies </h2>
-
-  <section>
-   <h3>Languages</h3>
-   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,java,php,python" />
-  </section>
-
-  <section>
-   <h3>Front-End</h3>
-   <img src="https://skillicons.dev/icons?i=angular,bootstrap" />
-   <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://github.com/ng-bootstrap/ng-bootstrap/blob/master/demo/src/public/img/ngb-logo.svg" />
-   <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://github.com/angular-material-extensions/select-icon/blob/master/assets/angular-material-extensions-logo.png" />
-  </section>
-
-  <section>
-   <h3>Back-End | Data</h3>
-   <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://github.com/pedroHenrique57/pedroHenrique57/blob/main/assets/img/Spring%20Tools%20Suit%20Logo%20NBG.png" />
-   <img src="https://skillicons.dev/icons?i=spring,maven,mysql,postgresql" />
-  </section>
-
-  <section>
-   <h3>Platforms | Softwares</h3>
-   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,idea" />
-   <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
-   <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-  </section>
-
-  <section>
-   <h3>Studying</h3>
-   <img src="https://skillicons.dev/icons?i=angular,java,postgresql,php,python"/>
-   <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-   <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
-   <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
-    <img style="width: 96px; height: 48px; margin: 0 6px 0 6px;"
-    src="https://www.apache.org/logos/res/httpd/default.png" />
-  </section>
- </section>
+    <table align="center">
+        <tr>
+            <th>
+                <h3>Languages</h3>
+            </th>
+            <th>
+                <h3>Front-End</h3>
+            </th>
+            <th>
+                <h3>Back-End | Data</h3>
+            </th>
+            <th>
+                <h3>Platforms | Softwares</h3>
+            </th>
+            <th>
+                <h3>Studying</h3>
+            </th>
+        </tr>
+        <tr>
+            <td>
+               <img src="https://skillicons.dev/icons?i=html,css,scss,js"/>
+               <img src="https://skillicons.dev/icons?i=ts,java,php,python" />
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=angular,bootstrap" />
+                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+                src="https://github.com/ng-bootstrap/ng-bootstrap/blob/master/demo/src/public/img/ngb-logo.svg" />
+                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+                src="https://github.com/angular-material-extensions/select-icon/blob/master/assets/angular-material-extensions-logo.png" />
+            </td>
+            <td>
+               <img src="https://skillicons.dev/icons?i=spring,maven" />
+               <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+               <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+                src="https://github.com/pedroHenrique57/pedroHenrique57/blob/main/assets/img/Spring%20Tools%20Suit%20Logo%20NBG.png" />
+            </td>
+            <td>
+               <img src="https://skillicons.dev/icons?i=git,github,firebase" />
+               <img src="https://skillicons.dev/icons?i=vscode,idea" />
+               <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+                src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
+               <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=angular,java,postgresql"/>
+                <img src="https://skillicons.dev/icons?i=python"/>
+                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+                src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
+                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+                src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
+            </td>
+        </tr>
+    </table>
+</section>
 
  <section align="center">
   <h2> Stats </h2>
@@ -122,10 +134,10 @@
   </tr>
 </table>
 
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source"><img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenrique57&bg_color=242938&color=eeb902&line=f45d01&point=ffffff&area=true&hide_border=true"
-    alt="Commit Graph">
-  </a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source"><img
+src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenrique57&bg_color=242938&color=eeb902&line=f45d01&point=ffffff&area=true&hide_border=true"
+alt="Commit Graph">
+</a>
  </section>
 
   <section align="center">
