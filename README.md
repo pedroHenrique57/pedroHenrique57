@@ -12,7 +12,7 @@
     <p>🌱 I’m currently studying Java API Rest, Design Patterns and Software Architecture to improve my skills.</p>
    </li>
    <li>
-    <p>👯 I'm looking to collaborate on projects that contain Angular and RESTful APIs in Java to improve my collaboration skills and Hardskills.
+    <p>👯 I'm looking to collaborate on projects that contain Angular and RESTful APIs in Java to improve my collaboration and Hardskills.
     </p>
    </li>
    <li>
