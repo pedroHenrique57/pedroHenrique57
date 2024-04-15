@@ -6,17 +6,17 @@
   <h2>Hi folks! How are y'all doing? This is my github page i hope you like it! :)</h2>
   <ul>
    <li>
-    <p>🔭 I’m currently studying to work as a Developer!</p>
+    <p>🔭 I'm currently studying the 1st semester of Systems Analysis and Development, studying hard to work as a Fullstack Backend Specialist Developer!</p>
    </li>
    <li>
-    <p>🌱 I’m currently studying to be a java full stack developer.</p>
+    <p>🌱 I’m currently studying Java API Rest, Design Patterns and Software Architecture to improve my skills.</p>
    </li>
    <li>
-    <p>👯 I’m looking to collaborate on projects that contain Angular, API RESTful in java, php and Apache httpd to improve my hardskill.
+    <p>👯 I'm looking to collaborate on projects that contain Angular and RESTful APIs in Java to improve my collaboration skills and Hardskills.
     </p>
    </li>
    <li>
-    <p>🤔 I’m looking for help with php and Apache httpd.</p>
+    <p>🤔 I'm looking for help with NoSQL database and creating custom SQL commands in Java using Spring.</p>
    </li>
    <li>
     <p>💬 Ask me about my soft skills, I will be glad to answer you!</p>
@@ -70,39 +70,27 @@
         </tr>
         <tr>
             <td>
-               <img src="https://skillicons.dev/icons?i=html,css,scss,js"/>
-               <img src="https://skillicons.dev/icons?i=ts,java,python" />
+               <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,java,python&perline=3"/>
             </td>
             <td>
-                <img src="https://skillicons.dev/icons?i=angular,bootstrap" />
+                <img src="https://skillicons.dev/icons?i=angular,bootstrap&perline=2" />
                 <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
                 src="https://github.com/ng-bootstrap/ng-bootstrap/blob/master/demo/src/public/img/ngb-logo.svg" />
                 <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
                 src="https://github.com/angular-material-extensions/select-icon/blob/master/assets/angular-material-extensions-logo.png" />
             </td>
             <td>
-               <img src="https://skillicons.dev/icons?i=spring,maven" />
-               <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+               <img src="https://skillicons.dev/icons?i=spring,maven,mysql,postgresql&perline=2" />
                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-                src="https://github.com/pedroHenrique57/pedroHenrique57/blob/main/assets/img/Spring%20Tools%20Suit%20Logo%20NBG.png" />
-            </td>
-            <td>
-               <img src="https://skillicons.dev/icons?i=git,github,firebase" />
-               <img src="https://skillicons.dev/icons?i=vscode,idea" />
-               <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-                src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
-               <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-            </td>
-            <td>
-                <img src="https://skillicons.dev/icons?i=angular,java,postgresql"/>
-                <img src="https://skillicons.dev/icons?i=python"/>
-                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
                 src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
-                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+               <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
                 src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
+            </td>
+            <td>
+               <img src="https://skillicons.dev/icons?i=git,github,firebase&perline=2" />
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=angular,java,mongodb,nodejs&perline=2"/>
             </td>
         </tr>
     </table>
