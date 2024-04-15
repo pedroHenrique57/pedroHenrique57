@@ -74,17 +74,21 @@
             </td>
             <td>
                 <img src="https://skillicons.dev/icons?i=angular,bootstrap&perline=2" />
+                <p align="center">
                 <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
                 src="https://github.com/ng-bootstrap/ng-bootstrap/blob/master/demo/src/public/img/ngb-logo.svg" />
                 <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-                src="https://github.com/angular-material-extensions/select-icon/blob/master/assets/angular-material-extensions-logo.png" />
+                src="https://github.com/angular-material-extensions/select-icon/blob/master/assets/angular-material-extensions-logo.png" />         
+                </p>
             </td>
             <td>
                <img src="https://skillicons.dev/icons?i=spring,maven,mysql,postgresql&perline=2" />
+             <p align="center">
                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
                 src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-                src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
+                src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />              
+             </p>
             </td>
             <td>
                <img src="https://skillicons.dev/icons?i=git,github,firebase&perline=2" />
