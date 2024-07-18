@@ -1,46 +1,48 @@
 <html>
 
 <body>
-
- <section>
-  <h2>Hi folks! How are y'all doing? This is my github page i hope you like it! :)</h2>
+<section>
+  <h2>Olá pessoal! Como vocês estão? Esta é a minha página do GitHub, espero que gostem! :)</h2>
   <ul>
    <li>
-    <p>🔭 I'm currently studying the 1st semester of Systems Analysis and Development, studying hard to work as a Fullstack Backend Specialist Developer!</p>
+    <p>🔭 Atualmente sou formado no programa ONE da Oracle e estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas, estudando bastante para trabalhar como Desenvolvedor Java Backend!</p>
    </li>
    <li>
-    <p>🌱 I’m currently studying Java API Rest, Design Patterns and Software Architecture to improve my skills.</p>
+    <p>🌱 Atualmente estou estudando Java, Spring Framework, Design Patterns e Arquitetura de Software para melhorar minhas habilidades.</p>
    </li>
    <li>
-    <p>👯 I'm looking to collaborate on projects that contain Angular and RESTful APIs in Java to improve my collaboration and Hardskills.
-    </p>
+    <p>👯 Estou procurando colaborar em projetos que envolvam Angular e APIs RESTful em Java para melhorar minhas capacidades de colaboração e hard skills.</p>
    </li>
    <li>
-    <p>🤔 I'm looking for help with NoSQL database and creating custom SQL commands in Java using Spring.</p>
+    <p>🤔 Estou procurando ajuda com Java EE e Oracle Cloud.</p>
    </li>
    <li>
-    <p>💬 Ask me about my soft skills, I will be glad to answer you!</p>
+    <p>💬 Pergunte-me sobre minhas soft skills, ficarei feliz em responder!</p>
    </li>
    <li>
-    <p>📫 How to contact me: Send a message on Whatsapp, Linkedin or call me.</p>
+    <p>📫 Como entrar em contato: Envie uma mensagem no WhatsApp, LinkedIn ou ligue para mim!</p>
    </li>
    <li>
-    <p>🌾 Fun fact: I am a good caretaker of animals and plants! (and I make scarves 🧣)</p>
+    <p>🌾 Curiosidade: Cuido muito bem de animais e plantas! (e faço cachecóis 🧣)</p>
    </li>
   </ul>
+</section>
 
   <div align="center">
-   <a href="https://sinapse.lol/~/whatsapp" target="_blank"><img
+   <a href="https://api.whatsapp.com/send?phone=5511985164568" target="_blank"><img
      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
      target="_blank"></a>
    <a href="mailto:Pedro.henrique.contato369@gmail.com"><img
      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
      target="_blank"></a>
-   <a href="https://sinapse.lol/~/linkedin" target="_blank"><img
+   <a href="https://www.linkedin.com/in/pedro-henrique-costa-sinezio-420168231/" target="_blank"><img
      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
      target="_blank"></a>
-      <a href="https://sinapse.lol/~/wakatime" target="_blank"><img
+      <a href="https://wakatime.com/@phwakatime" target="_blank"><img
      src="https://img.shields.io/badge/-Wakatime-white?style=for-the-badge&logo=wakatime&logoColor=black"
+     target="_blank"></a>
+      <a href="https://drive.google.com/file/d/1_1GeugW5LcWKdnSDBlVNa_ds0ZyHEn2j/view?usp=sharing" target="_blank"><img
+     src="https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
      target="_blank"></a>
   </div>
  </section>
@@ -59,9 +61,6 @@
                 <h3>Back-End | Data</h3>
             </th>
             <th>
-                <h3>Platforms | Softwares</h3>
-            </th>
-            <th>
                 <h3>Studying</h3>
             </th>
         </tr>
@@ -75,7 +74,9 @@
                 <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
                 src="https://github.com/ng-bootstrap/ng-bootstrap/blob/master/demo/src/public/img/ngb-logo.svg" />
                 <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
-                src="https://github.com/angular-material-extensions/select-icon/blob/master/assets/angular-material-extensions-logo.png" />         
+                src="https://github.com/angular-material-extensions/select-icon/blob/master/assets/angular-material-extensions-logo.png" />    
+                <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
+                src="https://spartan-goetzrobin.vercel.app/assets/og-image.png" />    
                 </p>
             </td>
             <td>
@@ -88,10 +89,11 @@
              </p>
             </td>
             <td>
-               <img src="https://skillicons.dev/icons?i=git,github,firebase&perline=2" />
-            </td>
-            <td>
-                <img src="https://skillicons.dev/icons?i=angular,java,mongodb,nodejs&perline=2"/>
+               <img src="https://skillicons.dev/icons?i=angular,spring,java,nodejs&perline=2"/> <br>
+               <img style="width: 96px; height: 48px; margin: 0 6px 0 6px;"
+                 src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Oracle.component.complex-narrative-xl.ts=1690900057141.png/content/adobe-cms/br/pt/products/instana/supported-technologies/oracle-database-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage"/> <br>
+               <img style="width: 96px; height: 48px; margin: 0 6px 0 6px;"
+                 src="https://access.redhat.com/hydra/cwe/rest/v1.0/public/partners/564097/logo"/>
             </td>
         </tr>
     </table>
