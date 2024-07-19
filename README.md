@@ -41,7 +41,7 @@
       <a href="https://wakatime.com/@phwakatime" target="_blank"><img
      src="https://img.shields.io/badge/-Wakatime-white?style=for-the-badge&logo=wakatime&logoColor=black"
      target="_blank"></a>
-      <a href="https://drive.google.com/file/d/1_1GeugW5LcWKdnSDBlVNa_ds0ZyHEn2j/view?usp=sharing" target="_blank"><img
+      <a href="https://drive.google.com/file/d/1b8eQsDuXyNvoclB51FYr0EqrY3N-fDJ2/view?usp=sharing" target="_blank"><img
      src="https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
      target="_blank"></a>
   </div>
