@@ -104,6 +104,7 @@
                      src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng_solidBlack.png?fit=250%2C250&ssl=1"/>
                 <img style="width: 48px; height: 48px; margin: 0 6px 0 6px;"
                      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png"/>
+                <img src="https://skillicons.dev/icons?i=c&perline=4"/> 
             </td>
         </tr>
     </table>
