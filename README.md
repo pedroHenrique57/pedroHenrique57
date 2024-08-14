@@ -2,31 +2,31 @@
 
 <body>
 <section>
-    <h2>Olá pessoal! Como vocês estão? Esta é a minha página do GitHub, espero que gostem! :)</h2>
+    <h2>Hello everyone! How are you doing? This is my GitHub page, I hope you like it! :)</h2>
     <ul>
         <li>
-            <p>🔭 Atualmente sou formado no programa ONE da Oracle e estou cursando o 2º semestre de Análise e
-                Desenvolvimento de Sistemas, estudando bastante para trabalhar como Desenvolvedor Java Backend!</p>
+            <p>🔭 I am currently graduated from the Oracle ONE program and am in the 2nd semester of Analysis and
+                Systems Development, studying hard to work as a Java Backend Developer!</p>
         </li>
         <li>
-            <p>🌱 Atualmente estou estudando Java, Spring Framework, Design Patterns e Arquitetura de Software para
-                melhorar minhas habilidades.</p>
+            <p>🌱 I am currently studying Java, Spring Framework, Design Patterns, and Software Architecture to
+                improve my skills.</p>
         </li>
         <li>
-            <p>👯 Estou procurando colaborar em projetos que envolvam Angular e APIs RESTful em Java para melhorar minhas
-                capacidades de colaboração e hard skills.</p>
+            <p>👯 I am looking to collaborate on projects involving Angular and RESTful APIs in Java to enhance my
+                collaboration skills and hard skills.</p>
         </li>
         <li>
-            <p>🤔 Estou procurando ajuda com Jakarta EE e Oracle Cloud.</p>
+            <p>🤔 I am seeking help with Jakarta EE and Oracle Cloud.</p>
         </li>
         <li>
-            <p>💬 Pergunte-me sobre minhas soft skills, ficarei feliz em responder!</p>
+            <p>💬 Ask me about my soft skills, I'd be happy to answer!</p>
         </li>
         <li>
-            <p>📫 Como entrar em contato: Envie uma mensagem no WhatsApp, LinkedIn ou ligue para mim!</p>
+            <p>📫 How to contact me: Send a message on WhatsApp, LinkedIn, or call me!</p>
         </li>
         <li>
-            <p>🌾 Curiosidade: Cuido muito bem de animais e plantas! (e faço cachecóis 🧣)</p>
+            <p>🌾 Fun fact: I take great care of animals and plants! (and make scarves 🧣)</p>
         </li>
     </ul>
 </section>
@@ -38,7 +38,7 @@
     <a href="mailto:Pedro.henrique.contato369@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
             target="_blank"></a>
-    <a href="https://www.linkedin.com/in/pedro-henrique-costa-sinezio-420168231/" target="_blank"><img
+    <a href="https://www.linkedin.com/in/phcsdev/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
     <a href="https://wakatime.com/@phwakatime" target="_blank"><img
@@ -46,7 +46,7 @@
             target="_blank"></a>
     <a href="https://docs.google.com/document/d/1_T-bqhmGFuqlLymXtWKU0vEEHcVvog6z/edit?usp=sharing&ouid=115027580491758364493&rtpof=true&sd=true"
        target="_blank"><img
-            src="https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
+            src="https://img.shields.io/badge/Curriculum-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
             target="_blank"></a>
 </div>
 </section>
