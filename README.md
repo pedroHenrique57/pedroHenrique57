@@ -1,12 +1,10 @@
-## Hello everyone! How are you doing? This is my GitHub page, I hope you like it! :)
+## Pedro Henrique Costa Sinezio - Fullstack Freelancer
 
-- 🔭 I am currently graduated from the Oracle ONE program and am in the 2nd semester of Analysis and Systems Development, studying hard to work as a Java Backend Developer!
-- 🌱 I am currently studying Java, Spring Framework, Design Patterns, and Software Architecture to improve my skills.
-- 👯 I am looking to collaborate on projects involving Angular and RESTful APIs in Java to enhance my collaboration skills and hard skills.
-- 🤔 I am seeking help with Jakarta EE and Oracle Cloud.
-- 💬 Ask me about my soft skills, I'd be happy to answer!
-- 📫 How to contact me: Send a message on WhatsApp, LinkedIn, or call me!
-- 🌾 Fun fact: I take great care of animals and plants! (and make scarves 🧣)
+Hello! I’m a fullstack freelancer specializing in building high-performance and responsive web applications and front-end pages. I also have experience developing desktop programs with Electron.
+
+I’m proficient in Python, Java, Angular, React, Next.js, and NestJS, and I also have skills in Go and C. If you’re looking for a professional to bring your project to life, I’m currently available for new opportunities.
+
+If you're interested, feel free to reach out via the contact details below:
 
 <div align="center">
 
@@ -27,7 +25,7 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,vscode,python,c,java,golang,javascript,typescript,css,html,angular,react,next,tailwind,sass,nodejs,nest,electron,spring,github,materialui,linux,postman,vercel,bootstrap,mongodb,mysql,postgres)](https://skillicons.dev)
 
 </div>
 
@@ -35,6 +33,6 @@
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pedrohenrique57&row=1&column=6&theme=dracula&margin-w=15&margin-h=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pedrohenrique57&row=1&column=7&theme=dracula&margin-w=15&margin-h=15)
 
 </div>
