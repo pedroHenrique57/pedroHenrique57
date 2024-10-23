@@ -11,7 +11,6 @@ If you're interested, feel free to reach out via the contact details below:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511985164568)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pedro.henrique.contato369@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phcsdev/)
-[![Wakatime](https://img.shields.io/badge/-Wakatime-white?style=for-the-badge&logo=wakatime&logoColor=black)](https://wakatime.com/@phwakatime)
 [![Curriculum](https://img.shields.io/badge/Curriculum-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/document/d/1_T-bqhmGFuqlLymXtWKU0vEEHcVvog6z/edit?usp=sharing&ouid=115027580491758364493&rtpof=true&sd=true)
 
 </div>
