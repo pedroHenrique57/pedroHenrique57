@@ -28,6 +28,7 @@ Se estiver interessado, sinta-se à vontade para entrar em contato pelos detalhe
 
 </div>
 
+<!--
 ---
 
 <div align="center">
@@ -35,3 +36,4 @@ Se estiver interessado, sinta-se à vontade para entrar em contato pelos detalhe
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pedrohenrique57&row=1&column=7&theme=dracula&margin-w=15&margin-h=15)
 
 </div>
+--!>
