@@ -1,10 +1,10 @@
-## Pedro Henrique Costa Sinezio - Fullstack Freelancer
+## Pedro Henrique Costa Sinezio - Freelancer Fullstack
 
-Hello! I’m a fullstack freelancer specializing in building high-performance and responsive web applications and front-end pages. I also have experience developing desktop programs with Electron.
+Olá! Sou um desenvolvedor fullstack freelancer, especializado em criar aplicações web de alta performance e páginas front-end responsivas. Também tenho experiência no desenvolvimento de programas desktop utilizando Electron.
 
-I’m proficient in Python, Java, Angular, React, Next.js, and NestJS, and I also have skills in Go and C. If you’re looking for a professional to bring your project to life, I’m currently available for new opportunities.
+Sou proficiente em Python, Java, Angular, React, Next.js e NestJS, além de possuir habilidades em Go e C. Se você está procurando um profissional para dar vida ao seu projeto, estou disponível para novas oportunidades no momento.
 
-If you're interested, feel free to reach out via the contact details below:
+Se estiver interessado, sinta-se à vontade para entrar em contato pelos detalhes abaixo:
 
 <div align="center">
 
@@ -24,7 +24,7 @@ If you're interested, feel free to reach out via the contact details below:
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=git,vscode,python,c,java,golang,javascript,typescript,css,html,angular,react,next,tailwind,sass,nodejs,nest,electron,spring,github,materialui,linux,postman,vercel,bootstrap,mongodb,mysql,postgres)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,vscode,github,postman,vercel,aws,docker,python,c,java,golang,javascript,typescript,html,css,sass,bootstrap,angular,react,next,materialui,nodejs,nest,electron,spring,mongodb,redis,rabbitmq,mysql,postgres)](https://skillicons.dev)
 
 </div>
 
