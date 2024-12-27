@@ -17,7 +17,7 @@ Se estiver interessado, sinta-se à vontade para entrar em contato pelos detalhe
 
 ---
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-night-view.svg)
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrohenrique57&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrohenrique57&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
